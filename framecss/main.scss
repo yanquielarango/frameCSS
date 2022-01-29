@@ -1,0 +1,14 @@
+@use './partials/variables'  as * ;
+ @use './partials/global'  ;
+ @use './partials/colors';
+ @use './partials/card';
+
+
+h1 {
+  font-size: 4rem;
+  color: $primary;
+}
+
+
+
+
